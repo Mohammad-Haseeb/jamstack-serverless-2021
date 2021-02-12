@@ -1,0 +1,1 @@
+import  './src/globalStyleFolder/globalStyle.css'
