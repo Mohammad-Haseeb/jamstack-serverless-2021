@@ -6,12 +6,12 @@ import Default from "./components/DefaultClient"
 
 const App = () => {
   return (
-    <Layout>
+   
       <Router basepath="/app">
         <ClientPage1 path="/page1" />
         <Default path="/" />
       </Router>
-    </Layout>
+  
   )
 }
 
